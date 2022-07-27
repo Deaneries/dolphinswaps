@@ -1,0 +1,20 @@
+{
+    "chainId": 101,
+    "address": "9uZFhGFebhmAiSvoDkNzXqVULHEzsqkvoVJmtp452wor",
+    "symbol": "DST",
+    "name": "Dolphin Swap Token",
+    "decimals": 6,
+    "logoURI": "https://github.com/Deaneries/dolphin/blob/main/dolphin.png",
+    "tags": [
+      "meme-token",
+      "utility-token",
+      "swap-token",
+      "community-token",
+      "nft-token"
+    ],
+    "extensions": {
+      "discord": "https://discord.com/invite/F3GWQmzKkD",
+      "twitter": "https://twitter.com/dolphin_swap",
+      "website": "https://dolphinswap.xyz"
+    }
+  }
